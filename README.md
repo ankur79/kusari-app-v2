@@ -1,1 +1,0 @@
-# kusari-app-v2
